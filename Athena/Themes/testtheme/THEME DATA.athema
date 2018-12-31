@@ -1,0 +1,11 @@
+toplabel-color 0,0,0
+execute-color 0,0,0
+clear-color 0,0,0
+open-color 0,0,0
+inject-color 0,0,0
+close-color 0,0,0
+minimize-color 0,0,0
+globals-color 0,0,0
+comment-color 0,0,0
+script-color 0,0,0
+main-theme image.png
